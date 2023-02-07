@@ -50,7 +50,7 @@ export class TeamsGuard implements CanActivate {
                 this.authService.redirectUrl = state.url;
                 resolve(this.router.parseUrl('/login'));
               },
-              resources: ['https://myuniquedomain.loca.lt']
+              resources: ['https://mycuniquedomain.loca.lt']
             });
           });
         }

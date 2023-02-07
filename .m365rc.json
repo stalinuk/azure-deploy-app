@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "appId": "ed16db84-f1a5-49e0-8063-13f594bd489e",
+      "name": "Angular Teams app"
+    },
+    {
+      "appId": "5a6d82fd-ff07-494a-9934-a53a0880ffaf",
+      "name": "Angular Teams app"
+    }
+  ]
+}

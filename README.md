@@ -17,7 +17,7 @@ Boilerplate Teams app with SSO built using Angular.
 
     This will start a local web server that will serve the app, and create a tunnel to the web server to expose it through a public URL using [localtunnel](https://github.com/localtunnel/localtunnel).
 
-You need a unique URL for the app to be accessible from the web, therefore you should replace the `myuniquedomain` used in the `tunnel` and `update:manifest` scripts with a unique domain in the scripts section of `package.json`.
+You need a unique URL for the app to be accessible from the web, therefore you should replace the `mycuniquedomain` used in the `tunnel` and `update:manifest` scripts with a unique domain in the scripts section of `package.json`.
 
 ### Updating your app
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.12/MicrosoftTeams.schema.json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifestVersion": "1.12",
   "id": "59ade8d4-2ea3-4df4-87e2-74efc54ce905",
   "packageName": "com.package.name",
@@ -28,7 +28,7 @@
     {
       "entityId": "e22141f3-dada-4bb1-af60-965095b75741",
       "name": "Angular app",
-      "contentUrl": "https://myuniquedomain.loca.lt",
+      "contentUrl": "https://mycuniquedomain.loca.lt",
       "scopes": [
         "personal"
       ]
@@ -42,7 +42,7 @@
   ],
   "validDomains": [],
   "webApplicationInfo": {
-    "id": "fc51be1e-1870-4300-a6e6-e853c57577b4",
-    "resource": "api://myuniquedomain.loca.lt/fc51be1e-1870-4300-a6e6-e853c57577b4"
+    "id": "ed16db84-f1a5-49e0-8063-13f594bd489e",
+    "resource": "api://mycuniquedomain.loca.lt/ed16db84-f1a5-49e0-8063-13f594bd489e"
   }
 }

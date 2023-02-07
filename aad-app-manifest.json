@@ -4,7 +4,7 @@
   "accessTokenAcceptedVersion": null,
   "addIns": [],
   "allowPublicClient": null,
-  "appId": "fc51be1e-1870-4300-a6e6-e853c57577b4",
+  "appId": "ed16db84-f1a5-49e0-8063-13f594bd489e",
   "appRoles": [],
   "oauth2AllowUrlPathMatching": false,
   "createdDateTime": "2022-02-07T08:51:18Z",
@@ -13,7 +13,7 @@
   "disabledByMicrosoftStatus": null,
   "groupMembershipClaims": null,
   "identifierUris": [
-    "api://myuniquedomain.loca.lt/fc51be1e-1870-4300-a6e6-e853c57577b4"
+    "api://mycuniquedomain.loca.lt/ed16db84-f1a5-49e0-8063-13f594bd489e"
   ],
   "informationalUrls": {
     "termsOfService": null,
@@ -69,7 +69,7 @@
       "type": "Spa"
     },
     {
-      "url": "https://myuniquedomain.loca.lt/auth",
+      "url": "https://mycuniquedomain.loca.lt/auth",
       "type": "Spa"
     }
   ],

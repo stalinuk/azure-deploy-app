@@ -23,7 +23,7 @@ import { environment } from '../environments/environment';
       auth: {
         clientId: environment.aadAppId,
         authority: `https://login.microsoftonline.com/${environment.tenantId}`,
-        redirectUri: 'https://myuniquedomain.loca.lt/auth',
+        redirectUri: 'https://mycuniquedomain.loca.lt/auth',
       },
       cache: {
         cacheLocation: BrowserCacheLocation.LocalStorage,
@@ -34,7 +34,7 @@ import { environment } from '../environments/environment';
     }, {
       interactionType: InteractionType.Redirect,
       protectedResourceMap: new Map([
-        ['https://myuniquedomain-api.loca.lt', ['access_as_user']]
+        ['https://mycuniquedomain-api.loca.lt', ['access_as_user']]
       ])
     })
   ],

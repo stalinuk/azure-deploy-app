@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  aadAppId: '',
-  tenantId: ''
+  aadAppId: 'ed16db84-f1a5-49e0-8063-13f594bd489e',
+  tenantId: '69f8ce66-1d63-40e1-86ce-ad54f24546ef'
 };
 
 /*
